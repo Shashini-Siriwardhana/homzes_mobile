@@ -1,21 +1,32 @@
-<<<<<<< HEAD
-# homzes-mobile-app
-A Flutter application for buying and renting properties.
-=======
 # homzes_mobile
 
-A new Flutter project.
+A Flutter application that allows users to buy and rent properties. Users can view property listings, search by keywords, and apply filters to find their ideal home or investment.
+
+## Features
+
+- Browse properties for sale or rent  
+- Search properties
+- User-friendly interface with responsive design  
+- Firebase integration for backend services  
+
+## Tech Stack
+
+- **Flutter** – Frontend framework  
+- **Firebase** – Backend services including authentication, database, and storage  
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shashini-Siriwardhana/homzes_mobile.git
+   cd homzes_mobile
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2. Install dependencies:
+    flutter pub get
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> b8f0fac (Initial commit)
+3. Run the application:
+    flutter run
+
+
